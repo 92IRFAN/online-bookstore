@@ -1,5 +1,4 @@
 # 🌐 Live Demo [Bookstore](https://bms-client-alpha.vercel.app)
----
 
 # 📚 Online Bookstore Management System
 
