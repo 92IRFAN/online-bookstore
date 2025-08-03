@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui";
+@plugin '@tailwindcss/typography';
+
+@theme {
+
+  --font-sans:"Lato", sans-serif;
+  --font-heading:"Gelasio", serif;
+
+  --color-bilbao-50: #f3fcf1;
+  --color-bilbao-100: #e2fade;
+  --color-bilbao-200: #c7f3bf;
+  --color-bilbao-300: #98e98c;
+  --color-bilbao-400: #64d553;
+  --color-bilbao-500: #3ebb2c;
+  --color-bilbao-600: #2e9b1e;
+  --color-bilbao-700: #25741a;
+  --color-bilbao-800: #23601b;
+  --color-bilbao-900: #1d4f18;
+  --color-bilbao-950: #0a2c07;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+  p, a{
+    font-family: var(--font-sans);
+  }
+}
