@@ -158,8 +158,3 @@ npm install
 ```
 
 ---
-
-## 🌍 How it looks
-
-> *(Add your screenshots or demo links here)*
-
