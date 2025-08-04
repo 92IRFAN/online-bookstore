@@ -36,8 +36,6 @@ The project is fully responsive, scalable, and built using modular and reusable 
 - `React Toastify`
 - `React Hook Form`
 - `React Icons`
-- `React PDF`
-- `Multer`
 - `DaisyUI`
 
 ---
