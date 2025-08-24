@@ -8,8 +8,10 @@ An advanced online bookstore built with the MERN stack allowing users to browse,
 
 ## 💡 About this Project
 
-This project is divided into three main parts: **Client**, **Admin**, and **Backend**.  
-Users can browse a wide variety of books, add them to the cart or wishlist, make secure payments using **Stripe**, and manage their profiles and order history.  
+This project is divided into three main parts: **Client**, **Admin**, and **Backend**.
+
+Users can browse a wide variety of books, add them to the cart or wishlist, make secure payments using **Stripe**, and manage their profiles and order history.
+
 The Admin side includes full access to manage books, users, and orders including invoice generation, order tracking, and book editing tools.
 
 The project is fully responsive, scalable, and built using modular and reusable code practices. It's a complete e-commerce solution tailored for book-selling businesses.
