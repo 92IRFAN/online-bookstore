@@ -2,7 +2,7 @@
 
 # 📚 Online Bookstore Management System
 
-An advanced online bookstore built with the MERN stack — allowing users to browse, purchase, and manage books, while giving admins full control over inventory, orders, and customers.
+An advanced online bookstore built with the MERN stack allowing users to browse, purchase, and manage books, while giving admins full control over inventory, orders, and customers.
 
 ---
 
@@ -10,7 +10,7 @@ An advanced online bookstore built with the MERN stack — allowing users to bro
 
 This project is divided into three main parts: **Client**, **Admin**, and **Backend**.  
 Users can browse a wide variety of books, add them to the cart or wishlist, make secure payments using **Stripe**, and manage their profiles and order history.  
-The Admin side includes full access to manage books, users, and orders — including invoice generation, order tracking, and book editing tools.
+The Admin side includes full access to manage books, users, and orders including invoice generation, order tracking, and book editing tools.
 
 The project is fully responsive, scalable, and built using modular and reusable code practices. It's a complete e-commerce solution tailored for book-selling businesses.
 
